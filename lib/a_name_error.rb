@@ -1,3 +1,3 @@
-put "hello world"
+put "hello world";
 
 put hello_world
